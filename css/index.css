@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio&display=swap");
+* {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  text-transform: capitalize;
+  transition: all .2s linear;
+}
+
+.header {
+  background: url(./imgs/bg1.png) no-repeat;
+}
+
+.header .container .row {
+  display: flex;
+  width: 453px;
+  height: 299px;
+  margin: 0 241px 20px 242px;
+  padding-top: 113px;
+}
+/*# sourceMappingURL=index.css.map */
